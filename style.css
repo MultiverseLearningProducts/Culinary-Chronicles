@@ -1,0 +1,37 @@
+body {
+    background-color: gray;
+}
+
+div {
+    background-color: white;
+    width: 80%;
+    border-radius: 20px;
+    padding: 2px;
+    margin: 5px auto 10px;
+    box-shadow: 2px 2px 2px black;
+}
+
+img {
+    height: 200px;
+    box-shadow: 2px 2px 2px black;
+    margin: 5px;
+    
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 1px 1px 2px white;
+}
+
+p {
+    font-size: 30px;
+}
+
+ul {
+    font-size: 30px;
+}
+
+.bot {
+    text-align: center;
+    font-weight: bolder;
+}
