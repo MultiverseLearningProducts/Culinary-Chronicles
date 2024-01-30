@@ -1,0 +1,28 @@
+.heading {
+    color: rgb(0, 170, 255);
+    text-align: center;
+    text-shadow: none;
+    font-size: 24;
+    box-shadow: inset;
+}
+
+div {
+    font-size: 16;
+    color: black;
+}
+.fav-cuisines {
+    background-color: aquamarine;
+}
+
+.fav-dishes {
+    background-color: beige;
+}
+.recipes{
+    background-color: brown;
+}
+
+img {
+    width: 300px;
+    border-radius: 2rem;
+    opacity: 100;
+}
