@@ -1,28 +1,30 @@
 .heading {
-    color: rgb(0, 170, 255);
-    text-align: center;
-    text-shadow: none;
-    font-size: 24;
-    box-shadow: inset;
+  color: rgb(0, 170, 255);
+  text-align: center;
+  text-shadow: #fc0 1px 0 10px;
+  font-size: 24;
+  box-shadow: inset;
+  text-decoration: underline;
 }
 
 div {
-    font-size: 16;
-    color: black;
+  font-size: 16;
+  color: black;
 }
 .fav-cuisines {
-    background-color: aquamarine;
+  background-color: aquamarine;
 }
 
 .fav-dishes {
-    background-color: beige;
+  background-color: beige;
 }
-.recipes{
-    background-color: brown;
+.recipes {
+  background-color: brown;
 }
 
 img {
-    width: 300px;
-    border-radius: 2rem;
-    opacity: 101;
+  width: 300px;
+  border-radius: 2rem;
+  opacity: 101;
+  box-shadow: 10px 5px 5px lightgrey;
 }
