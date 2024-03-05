@@ -1,12 +1,29 @@
 #tofu {
-    height: 300px;
+    height: 500px;
     width: auto;
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 #steak {
-    height: 240px;
-    width: auto; 
+    height: 500px;
+    width: auto;
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 #gnocchi {
-    height: 400px;
+    height: 600px;
     width: auto;
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
+.dishTxt {
+    color: rgb(61, 61, 61);
+    font-size: xx-large;
+    font: italic;
+    text-align: center;}
