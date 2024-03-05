@@ -1,0 +1,58 @@
+body {
+    background-color: coral;
+
+}
+
+h1 {
+    background-image: linear-gradient(to right, white, #B284BE)
+}
+
+ol {
+    background-color: firebrick;
+}
+
+ol li {
+    color: white;
+    font-size: 16px
+}
+
+ul li {
+    font-size: 20px
+}
+
+.Headers3 {
+    color:azure;
+}
+
+#CuisineHeader {
+    font-family: fantasy;
+}
+
+#ItalianDiv {
+    background-color: green;
+}
+
+#JapaneseDiv {
+    background-color: red;
+}
+
+#IndianDiv {
+    background-color: orange;
+}
+
+#ThaiDiv {
+    background-color: lightblue;
+}
+
+#MexicanDiv {
+    background-color: lightgreen;
+}
+
+#SoulFoodDiv {
+    background-color: purple;
+}
+
+img {
+    height: 200px;
+    width: 300px;
+}
