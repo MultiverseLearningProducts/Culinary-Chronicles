@@ -10,3 +10,25 @@
     height: 400px;
     width: auto;
 }
+h1{
+    text-align: center;
+    font-weight: bolder;
+}
+h3{
+    text-align: center;
+}
+body{
+    background-color: seashell;
+}
+ul, li {
+    font-size: 16px;
+}
+footer{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+a{
+    color: orangered;
+    font-size: 16px;
+}
